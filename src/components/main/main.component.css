@@ -1,0 +1,12 @@
+:host {
+  width: 60%;
+  margin-left: 2.5%;
+}
+.body {
+  height: 70vh;
+  overflow: auto;
+  padding-right: 10px;
+}
+h2 {
+  text-align: center;
+}
