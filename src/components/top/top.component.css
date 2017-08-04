@@ -1,0 +1,9 @@
+.body {
+  background-color: forestgreen;
+  justify-content: flex-end;
+}
+.title {
+  color: #fff;
+  text-align: right;
+  margin-right: 2vw;
+}

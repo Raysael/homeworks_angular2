@@ -1,0 +1,13 @@
+.example-header-image {
+  background-color: #fff;
+  background-image: url('../../img/jhonny.png');
+  background-repeat: no-repeat;
+  background-size: 30vh;
+  background-position: 45% 90%;
+  height: 14vh;
+  width: 14vh;
+  position: absolute;
+  bottom: -7vh;
+  left: 2vw;
+  border: 0.5vh solid #000;
+}
