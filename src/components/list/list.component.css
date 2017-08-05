@@ -1,1 +1,8 @@
-
+.wrapper {
+  height: 55vh;
+  overflow: auto;
+  padding: 1px 1% 1px 8%;
+}
+.wrapper::-webkit-scrollbar {
+  width: 0;
+}

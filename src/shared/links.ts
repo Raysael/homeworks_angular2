@@ -1,13 +1,17 @@
 export const Links = [{
-  link: "https://angular.io/tutorial",
-  name: "item1"
+  link: "http://zeil-d.zzz.com.ua/",
+  name: "My site"
 }, {
-  link: "https://github.com/angular/angular-cli/wiki",
-  name: "item2"
+  link: "https://www.facebook.com/AndriiStiahailo",
+  name: "Facebook"
 }, {
-  link: "https://blog.angular.io//",
-  name: "item3"
-}
+  link: "https://www.linkedin.com/in/andrii-stiahailo-7b5675138/",
+  name: "LinkedIn"
+},
+  {
+    link: "kasjewelfr@gmail.com",
+    name: "Email"
+  }
 ]
 
 

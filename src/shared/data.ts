@@ -1,15 +1,23 @@
 export const Data = [
   {
-    title: 'Lorem ipsum',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum',
+    title: 'SUMMARY',
+    text: 'I\'m a creative front-end developer with over one year of experience. I\'m interested in learning new modern technologies for implementing them in my projects.',
     icon: 'http://catplanet.org/wp-content/uploads/2014/10/Cat-caught-taking-selfie-240x240.jpg'
   },
   {
-    title: 'Lorem ipsum',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum',
+    title: 'SUMMARY',
+    text: 'Reliable and dedicated with the ability to learn quickly and work in a fast paced environment.',
+    icon: 'http://catplanet.org/wp-content/uploads/2014/10/Cat-caught-taking-selfie-240x240.jpg'
+  },
+  {
+    title: 'RESPONSIBILITIES',
+    text: 'Develop usable websites based on web standards, flexibility and accessibility.\n' +
+    'Use Avocode and Photoshop for website mockups.\n' +
+    'Develop layout web applications with Pug and React.js.',
     icon: 'http://catplanet.org/wp-content/uploads/2014/10/Cat-caught-taking-selfie-240x240.jpg'},
   {
-    title: 'Lorem ipsum',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum',
+    title: 'RESPONSIBILITIES',
+    text: 'Write simple plugins and animations in JavaScript.\n' +
+    'Use BEM methodology for making source code more readable and understandable.',
     icon: 'http://catplanet.org/wp-content/uploads/2014/10/Cat-caught-taking-selfie-240x240.jpg'}
 ];

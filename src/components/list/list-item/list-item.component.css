@@ -2,5 +2,8 @@ md-card {
   margin-bottom: 2vh;
 }
 md-card-title {
-  margin: 10px 0 0;
+  margin: 13px 0 0;
+}
+md-card-content {
+  margin-top: 10px;
 }

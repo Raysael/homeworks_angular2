@@ -9,5 +9,9 @@ import {Component, Input} from "@angular/core";
 
 
 export class LinkComponent {
-@Input() linkItem
+@Input() linkItem;
+
+  getLink() {
+    return this.linkItem.link.search(/http/i) === 0
+  }
 }

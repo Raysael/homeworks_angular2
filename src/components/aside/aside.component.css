@@ -2,10 +2,16 @@
   width: 35%;
 }
 .body {
-  margin-top: 7vh;
+  margin-top: calc(15vh - 30px);
+}
+md-list {
+  padding: 0;
 }
 h4 {
   margin: 0;
+}
+h3 {
+  text-align: center;
 }
 a {
   text-decoration: none;

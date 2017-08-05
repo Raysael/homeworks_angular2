@@ -1,3 +1,5 @@
 <md-list-item>
-  <h4><a target="_blank" [href]="linkItem.link">{{linkItem.name}}</a></h4>
+  <h4 *ngIf="getLink()"><a target="_blank"
+         [href]="linkItem.link">{{linkItem.name}}</a><md-icon>link</md-icon></h4>
+  <h4 *ngIf="!getLink()"><a [href]="'mailto:' + linkItem.link">{{linkItem.name}}</a></h4>
 </md-list-item>
